@@ -1,7 +1,7 @@
 # Aditya | Web Developer & Lifelong Learner
 <p align="left">
   <a href="https://www.linkedin.com/in/aditya-gupta-13b045320" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="mailto:adityakg91404@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+  <a href="mailto:adityakg91404@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
   <a href="https://www.instagram.com/adityakg25/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
 </p>
 
