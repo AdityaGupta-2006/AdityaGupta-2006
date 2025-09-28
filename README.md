@@ -1,16 +1,13 @@
 # Aditya | Web Developer & Lifelong Learner
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aditya-gupta-13b045320)
-[<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:adityakg91404@gmail.com)
-<!-- <a href="https://www.instagram.com/adityakg25/" target="_blank">img src=""</a> -->
-<a href="https://www.instagram.com/adityakg25/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" width="40" height="40"/>
-</a>
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/aditya-gupta-13b045320" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="mailto:adityakg91404@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+  <a href="https://www.instagram.com/adityakg25/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+</p>
 
 ### 👋 About Me
 
-I'm a developer based in India with a passion for building elegant solutions to complex problems. My journey in tech is driven by endless curiosity and a desire to create impactful web applications.
+<h2>I'm a developer based in India with a passion for building elegant solutions to complex problems. My journey in tech is driven by endless curiosity and a desire to create impactful web applications.</h2>
 
 -   🔭 I’m currently working on sharpening my full-stack skills.
 -   🌱 I’m currently learning **advanced Python** and exploring new **frontend frameworks**.
