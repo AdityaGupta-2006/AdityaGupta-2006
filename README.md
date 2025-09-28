@@ -12,7 +12,6 @@
 </p>
 
 
-![Header](https://capsule-render.vercel.app/api?type=wave&color=0077B5&height=200&section=header&text=Aditya%20Kumar%20Gupta&fontSize=60&fontColor=ffffff)
 
 ### 👋 About Me
 
