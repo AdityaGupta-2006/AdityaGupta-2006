@@ -17,6 +17,11 @@
   </a>
 </p>
 
+ <p align="center">
+  <a href="https://github.com/AdityaKG25">
+    <img src="https://readme-typing-svg.vercel.app/?font=Verdana&size=35&center=true&vCenter=true&width=500&lines=ADITYA+KUMAR+GUPTA;Full-Stack+Developer;Always+Learning&color=F70000,F74600,F77B00,F7B000,F7E500" alt="Typing SVG" />
+  </a>
+</p>
 
 
 ### 👋 About Me
