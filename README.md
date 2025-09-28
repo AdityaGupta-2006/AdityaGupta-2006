@@ -5,17 +5,7 @@
   <a href="https://www.instagram.com/adityakg25/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/AdityaKG25">
-    <img src="https://readme-typing-svg.vercel.app/?font=Verdana&size=30&center=true&vCenter=true&color=0077B5&width=500&lines=ADITYA+KUMAR+GUPTA;Full-Stack+Developer;Always+Learning" alt="Typing SVG" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/AdityaKG25">
-    <img src="https://readme-typing-svg.vercel.app/?font=Verdana&size=30&center=true&vCenter=true&width=500&lines=ADITYA+KUMAR+GUPTA;Full-Stack+Developer;Always+Learning&color=1E90FF,D93B4A,D23B75" alt="Typing SVG" />
-  </a>
-</p>
 
  <p align="center">
   <a href="https://github.com/AdityaKG25">
