@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aditya-gupta-13b045320)
 [<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:adityakg91404@gmail.com)
 [<img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=rss&logoColor=white" />](https://your-portfolio-link.com)
-[<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" />]([<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/your_username_here))
+
 
 
 ---
