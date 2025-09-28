@@ -5,9 +5,12 @@
   <a href="https://www.instagram.com/adityakg25/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
 </p>
 
+
+![Aditya Kumar Gupta](https://readme-text-animator.vercel.app/api?text=ADITYA%20KUMAR%20GUPTA&type=scroll&duration=5000)
+
 ### 👋 About Me
 
-<h2>I'm a developer based in India with a passion for building elegant solutions to complex problems. My journey in tech is driven by endless curiosity and a desire to create impactful web applications.</h2>
+> `I'm a developer based in India with a passion for building elegant solutions to complex problems. My journey in tech is driven by endless curiosity and a desire to create impactful web applications.` 🚀
 
 -   🔭 I’m currently working on sharpening my full-stack skills.
 -   🌱 I’m currently learning **advanced Python** and exploring new **frontend frameworks**.
