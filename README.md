@@ -24,13 +24,16 @@
 -   📫 How to reach me: **adityakg91404@gmail.com**
 
 ### 🛠️ Languages and Tools:
+### 🔗 Tech Stack:
+
+---
+
 <p align="left">
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-
-
-  <p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWl3aDBpbzJmNmd4cmgzZ3czZmUyaDFjdmtsMTEzbnF3MjhvbnU3MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/h2MouomJFCpMfWVfUj/giphy.gif" alt="A developer coding on a laptop" width="500">
 </p>
 </p>
