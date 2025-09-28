@@ -8,6 +8,8 @@
 
 ![Aditya Kumar Gupta](https://readme-text-animator.vercel.app/api?text=ADITYA%20KUMAR%20GUPTA&type=scroll&duration=5000)
 
+![Aditya Kumar Gupta](https://readme-text-animator.vercel.app/api?text=ADITYA%20KUMAR%20GUPTA&type=scroll&duration=10000&color=0077B5&font=Verdana)
+
 ### 👋 About Me
 
 > `I'm a developer based in India with a passion for building elegant solutions to complex problems. My journey in tech is driven by endless curiosity and a desire to create impactful web applications.` 🚀
