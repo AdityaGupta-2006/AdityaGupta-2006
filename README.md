@@ -23,9 +23,9 @@
 -   👯 I’m looking to collaborate on open-source projects.
 -   📫 How to reach me: **adityakg91404@gmail.com**
 
-### 🛠️ Languages and Tools:
 ### 🔗 Tech Stack:
 
+---
 ---
 
 <p align="left">
