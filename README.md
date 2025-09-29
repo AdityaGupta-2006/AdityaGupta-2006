@@ -1,8 +1,4 @@
 # Aditya | Web Developer & Lifelong Learner
----
-
-
-
 
  <p align="center">
   <a href="https://github.com/AdityaKG25">
