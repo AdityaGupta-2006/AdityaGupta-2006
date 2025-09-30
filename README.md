@@ -33,6 +33,15 @@
   <a href="https://www.linkedin.com/in/aditya-gupta-13b045320" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <a href="mailto:adityakg91404@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
   <a href="https://www.instagram.com/adityakg25/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+
+ #### My GitHub Stats:
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&count_private=true)
+
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)
+
+[![My GitHub Streak](https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=tokyonight)](https://git.io/streak-stats)
+
 </p>
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWl3aDBpbzJmNmd4cmgzZ3czZmUyaDFjdmtsMTEzbnF3MjhvbnU3MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/h2MouomJFCpMfWVfUj/giphy.gif" alt="A developer coding on a laptop" width="500">
