@@ -36,8 +36,9 @@
 
 
 
+
+</p>
+</p>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWl3aDBpbzJmNmd4cmgzZ3czZmUyaDFjdmtsMTEzbnF3MjhvbnU3MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/h2MouomJFCpMfWVfUj/giphy.gif" alt="A developer coding on a laptop" width="500">
-</p>
-</p>
 
 
