@@ -35,18 +35,25 @@
   <a href="https://www.instagram.com/adityakg25/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
 
 
-#### My GitHub Stats:
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaGupta-2006&show_icons=true&theme=tokyonight&count_private=true)
-
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGupta-2006&layout=compact&theme=tokyonight)
-
-[![My GitHub Streak](https://streak-stats.demolab.com/?user=AdityaGupta-2006&theme=tokyonight)](https://git.io/streak-stats)
-</p>
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWl3aDBpbzJmNmd4cmgzZ3czZmUyaDFjdmtsMTEzbnF3MjhvbnU3MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/h2MouomJFCpMfWVfUj/giphy.gif" alt="A developer coding on a laptop" width="500">
 </p>
 </p>
+#### My GitHub History!
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="[https://github-readme-stats.vercel.app/api?username=AdityaGupta-2006&show_icons=true&theme=tokyonight&count_private=true](https://github-readme-stats.vercel.app/api?username=AdityaGupta-2006&show_icons=true&theme=tokyonight&count_private=true)" alt="Aditya's GitHub Stats" />
+      </td>
+      <td>
+        <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGupta-2006&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGupta-2006&layout=compact&theme=tokyonight)" alt="Aditya's Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=AdityaGupta-2006&theme=react-dark&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=AdityaGupta-2006&theme=react-dark&hide_border=true)" alt="Aditya's Contribution Graph"/>
+</div>
 
 
