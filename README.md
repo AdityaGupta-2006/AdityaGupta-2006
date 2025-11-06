@@ -40,5 +40,5 @@
 </p>
 </p>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWl3aDBpbzJmNmd4cmgzZ3czZmUyaDFjdmtsMTEzbnF3MjhvbnU3MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/h2MouomJFCpMfWVfUj/giphy.gif" alt="A developer coding on a laptop" width="500">
-
+[![An image of @adityagupta2006's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityagupta2006)](https://holopin.io/@adityagupta2006)
 
